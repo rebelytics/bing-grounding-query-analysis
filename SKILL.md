@@ -1,11 +1,11 @@
 ---
 name: bing-grounding-query-analysis
 description: 'Apply a repeatable analysis layer to Bing Webmaster Tools AI grounding-query data once it has been extracted into a spreadsheet. Load this skill whenever the user wants to analyse Bing grounding queries, do AI citation analysis or Copilot citation analysis, split branded vs non-branded citations, detect GEO entity confusion, or run an AI visibility analysis of Bing data. It is the analysis companion to the extraction skill `bing-wmt-ai-grounding-export`: that skill produces the per-page grounding-query spreadsheet, this skill turns it into decisions. Trigger on mentions of "branded vs non-branded citations", "grounding query analysis", "AI citation analysis", "entity confusion", "synthetic query share", or "what''s driving our AI citations" in a Bing / Copilot context.'
-version: 1.1.0
 license: CC-BY-4.0
 metadata:
   author: Eoghan Henn and contributors
   source: https://github.com/rebelytics/bing-grounding-query-analysis
+  version: "1.1.1"
 ---
 
 # Bing Grounding-Query Analysis
